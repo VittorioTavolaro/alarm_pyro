@@ -1,4 +1,3 @@
-# This is the code that visits the warehouse.
 import sys
 
 import Pyro4
